@@ -5,8 +5,8 @@
 
 [![MIT License](https://img.shields.io/badge/license-MIT_License-green.svg?style=flat-square)](https://github.com/gearcase/tofixed/blob/master/LICENSE)
 
-[![build:?](https://img.shields.io/travis/gearcase/tofixed/master.svg?style=flat-square)](https://travis-ci.org/gearcase/tofixed)
-[![coverage:?](https://img.shields.io/coveralls/gearcase/tofixed/master.svg?style=flat-square)](https://coveralls.io/github/gearcase/tofixed)
+[![build:?](https://img.shields.io/travis/gearcase/toFixed/master.svg?style=flat-square)](https://travis-ci.org/gearcase/toFixed)
+[![coverage:?](https://img.shields.io/coveralls/gearcase/toFixed/master.svg?style=flat-square)](https://coveralls.io/github/gearcase/toFixed)
 
 
 ## Install
